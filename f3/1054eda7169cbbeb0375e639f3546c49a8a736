@@ -1,0 +1,101 @@
+labs/lab08-kernel-module/README.md
+  s_abc92f8797f7a1::t_1aeae2b364c4df 1-60
+labs/lab01-minimal-kvm-vm/minimal-vm.c
+  s_abc92f8797f7a1::t_d9057b8e26d695 1-117
+labs/lab01-minimal-kvm-vm/guest.S
+  s_abc92f8797f7a1::t_c2eae06959f5f3 1-24
+docs/06-debugging-tools.md
+  s_abc92f8797f7a1::t_8a12f2ffa94d78 1-196
+labs/lab08-kernel-module/Makefile
+  s_abc92f8797f7a1::t_e96ad41bdc01b2 1-19
+labs/lab03-mmu-notifier/Makefile
+  s_abc92f8797f7a1::t_fe261df17d0470 1-20
+README.md
+  s_abc92f8797f7a1::t_34943ef3c69034 2,4,7-11,34,45-46,48-50,56,59,61-62,95-96,98-101,104,108,110-111,113-115
+  s_abc92f8797f7a1::t_fdce58637a3974 1,3,5-6,12-33,35-44,47,51-55,57-58,60,63-94,97,102-103,105-107,109,112,116-125
+docs/03-memory-virtualization.md
+  s_abc92f8797f7a1::t_f554b44bd4da60 4-5
+  s_abc92f8797f7a1::t_9ee23dafcd8d27 1-3,6-188
+labs/lab06-arm64-kvm-vm/minimal-vm-arm64.c
+  s_abc92f8797f7a1::t_0bd96c4b91ab8f 1-136
+docs/07-arm64-architecture.md
+  s_abc92f8797f7a1::t_47b3cf9c1f4a16 1-200
+labs/lab03-mmu-notifier/trigger.c
+  s_abc92f8797f7a1::t_6e93c73a1bece7 1-36
+docs/08-arm64-virt-extensions.md
+  s_abc92f8797f7a1::t_09b0352608c02a 1-216
+labs/lab07-arm64-world-switch/README.md
+  s_abc92f8797f7a1::t_24903dd29ad974 1-103
+docs/10-kernel-dev-practice.md
+  s_abc92f8797f7a1::t_56f22e68e4cd49 1-221
+config/env.md
+  s_abc92f8797f7a1::t_b519aa3fef59b3 1-86
+labs/lab06-arm64-kvm-vm/README.md
+  s_abc92f8797f7a1::t_a03df1afaf494b 1-103
+docs/05-pvm-deep-dive.md
+  s_abc92f8797f7a1::t_f6adee5495b842 1-152
+labs/lab02-ftrace-tracing/README.md
+  s_abc92f8797f7a1::t_cbc63b6308ce20 1-83
+docs/04-kvm-memory-impl.md
+  s_abc92f8797f7a1::t_bb62cbec7e561a 1-196
+labs/README.md
+  s_abc92f8797f7a1::t_77f100cb125c90 1,5-7,9-12,14-15,19-20
+  s_abc92f8797f7a1::t_53f5fb7e39e301 2-4,8,13,16-18
+labs/lab04-kvm-unit-tests/README.md
+  s_abc92f8797f7a1::t_9386159c650967 1-66
+docs/00-learning-path.md
+  s_abc92f8797f7a1::t_c1b6c51483a50d 1,3,5-6,9,12-16,21-23,26-43,45-46,49-52,56,59-63,66,69,72-76,80,83-88,93-95,98-99,102-105,109,112-115,120-122,125,128-131,135,138-150,153,156,160-169
+  s_abc92f8797f7a1::t_bb8cb19b4dfa35 2,4,7-8,10-11,17-20,24-25,44,47-48,53-55,57-58,64-65,67-68,70-71,77-79,81-82,89-92,96-97,100-101,106-108,110-111,116-119,123-124,126-127,132-134,136-137,151-152,154-155,157-159
+labs/lab03-mmu-notifier/README.md
+  s_abc92f8797f7a1::t_5723376166b99c 1-69
+config/setup.sh
+  s_abc92f8797f7a1::t_ef2a7abd40f01d 12-13,16-22,24,28
+  s_abc92f8797f7a1::t_54be3f274853f4 1-11,14-15,23,25-27,29-54
+docs/02-memory-management.md
+  s_abc92f8797f7a1::t_5751349dcd1e7c 1-215
+labs/lab01-minimal-kvm-vm/README.md
+  s_abc92f8797f7a1::t_c15778b946340a 1-104
+labs/lab08-kernel-module/hello.c
+  s_abc92f8797f7a1::t_ea1e426b89e394 1-34
+docs/01-kernel-fundamentals.md
+  s_abc92f8797f7a1::t_fe0c6270d35d61 1-169,221-229
+  s_abc92f8797f7a1::t_9694324bc678d2 170-220
+labs/lab03-mmu-notifier/notifier_demo.c
+  s_abc92f8797f7a1::t_883680291108aa 1-88
+resources/README.md
+  s_abc92f8797f7a1::t_44f0cb38c231ad 1,3,7,11-22,24-29,35,37-39,41,45-52,58-59,62,64-65,67,69-73
+  s_abc92f8797f7a1::t_7e3af910720464 2,4-6,8-10,23,30-34,36,40,42-44,53-57,60-61,63,66,68
+docs/09-kvm-arm-impl.md
+  s_abc92f8797f7a1::t_ad4716ac80edc9 1-238
+labs/lab06-arm64-kvm-vm/guest.S
+  s_abc92f8797f7a1::t_2e46e2f8feeb61 1-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "f31054eda7169cbbeb0375e639f3546c49a8a736",
+  "prompts": {},
+  "sessions": {
+    "s_abc92f8797f7a1": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a97e2d9bace87755d87f4f9",
+        "model": "glm-5.3__dev"
+      },
+      "human_author": "rigon <2412789408@qq.com>",
+      "custom_attributes": {
+        "tool_type": "agent",
+        "client_type": "ide",
+        "operation_id": "6a98e0a9bace87755d87f5e7",
+        "tool_use_id": "6a98e0a9bace87755d87f5e7",
+        "dedupe_key": "6a97e2d9bace87755d87f4f9:6a98e0a9bace87755d87f5e7:afterEdit:b76fc781",
+        "edit_kind": "file_edit",
+        "runtime_client": "trae-tob-git-ai",
+        "source_scene": "unknown",
+        "tool_id": "Edit",
+        "external_session_id": "6a97e2d9bace87755d87f4f9",
+        "session_id": "6a97e2d9bace87755d87f4f9"
+      }
+    }
+  }
+}
